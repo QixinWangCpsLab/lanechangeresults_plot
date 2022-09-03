@@ -1,0 +1,5 @@
+Min time headway = 6.002943446101853 s.
+Max time headway = 56.494255788983956 s.
+Average time headway = 13.06156097861774 s.
+Std time headway = 6.329296177576539 s.
+Median time headway = 11.436073143042158 s.

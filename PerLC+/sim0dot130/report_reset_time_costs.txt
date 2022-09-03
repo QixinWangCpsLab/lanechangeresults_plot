@@ -1,0 +1,5 @@
+Min reset time = 1 ticks.
+Max reset time = 4137 ticks.
+Average reset time = 338.0930930930931 ticks.
+Std reset time = 892.7208715833773 ticks.
+Median reset time = 1.0 ticks.

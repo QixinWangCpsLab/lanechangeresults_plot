@@ -1,0 +1,6 @@
+Number of lanechanging = 67
+Min lanechanging time = 451 ticks.
+Max lanechanging time = 54319 ticks.
+Average lanechanging time = 17588.417910447763 ticks.
+Std lanechanging time = 18452.765393598587 ticks.
+Median lanechanging time = 9429.0 ticks.
